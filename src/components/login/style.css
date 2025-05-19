@@ -1,0 +1,16 @@
+.swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+  display: flex;
+  margin-left: 20px;
+
+}
+
+.hefffffader {
+ 
+ 
+  overflow: hidden;
+  background: #1A439A; 
+  background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(26, 67, 154, 0.8));
+  background-image: linear-gradient(#0e2cae 80%, #06173b 70%, #1652d3 70%, #06173b 100%, );
+  
+}

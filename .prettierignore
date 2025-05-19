@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Un-ignore only the src folder and its contents
+!src/
+!src/**
+# ignore with extensions
+**/*.html
+**/*.css
+**/*.d.ts
